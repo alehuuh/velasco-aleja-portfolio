@@ -10,8 +10,7 @@ Python Portfolio
   
 ![](sp2_output.png)
 
-# [Project 3: Machine Problem Chess: Thinking Moves Ahead](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 3: Machine Problem Chess: Thinking Moves Ahead](https://github.com/alehuuh/chess-thinking-moves-ahead)
 * The program determines the number of moves it will take for the different chess pieces from their current position to any other tile in the board.
 * The number in the output grid is the minimum number of moves it will take for the chess piece.
   
-![](/images/positions_by_state.png)
