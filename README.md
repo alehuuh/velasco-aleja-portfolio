@@ -1,7 +1,7 @@
 # velasco-aleja-portfolio
 Python Portfolio
 
-# [Project 1: Image Steganography]([https://github.com/PlayingNumbers/ds_salary_proj](https://github.com/alehuuh/img-stenography/tree/main)) 
+# [Project 1: Image Steganography]([https://github.com/alehuuh/img-stenography/tree/main]) 
 * The program will prompt the user to enter the secret_key (‘Enter Key:’) and the message (‘Enter Message:’) to be encrypted in the provided image. Also, it can decrypt the message given the key from image data. It automatically saves decrypted message to text file.
 * The program is capable of hiding and finding a short encrypted message inside a given image.
 
