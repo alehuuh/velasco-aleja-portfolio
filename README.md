@@ -5,7 +5,7 @@ Python Portfolio
 * The program will prompt the user to enter the secret_key (‘Enter Key:’) and the message (‘Enter Message:’) to be encrypted in the provided image. Also, it can decrypt the message given the key from image data. It automatically saves decrypted message to text file.
 * The program is capable of hiding and finding a short encrypted message inside a given image.
 
-![](/images/positions_by_state.png)
+![](sp2_output.png)
 
 # [Project 2: Digital Mandala](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Designed my own digital mandala using an object-oriented Python program
